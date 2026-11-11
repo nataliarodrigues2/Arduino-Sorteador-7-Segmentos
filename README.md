@@ -23,6 +23,12 @@ Durante a animação, números aleatórios são exibidos rapidamente no display.
 
 ![Foto do projeto](Sorteador.png)
 
-## Vídeo de funcionamento
+## Demonstração
 
-[▶ Assistir ao vídeo do projeto](Sorteador.mp4)
+![Animação do sorteador](Sorteador.gif)
+
+[▶ Assistir ao vídeo completo](Sorteador.mp4)
+
+## Código-fonte
+
+O código completo está disponível no arquivo [Sorteador.ino](Sorteador.ino).
